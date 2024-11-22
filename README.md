@@ -1,8 +1,6 @@
 ## Hi there, I'm Sumaiya Saeha 👋
-🎓 B.Sc in Computer Science & Engineering from Bangladesh University of Engineering & Technology
-
-💼 Aspiring Software Engineer
-
+🎓 B.Sc in Computer Science & Engineering from Bangladesh University of Engineering & Technology<br>
+💼 Aspiring Software Engineer<br>
 📍 Based in Dhaka
 
 🚀 About Me
