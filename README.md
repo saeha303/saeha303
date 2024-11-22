@@ -1,12 +1,12 @@
-## Hi there, I'm Sumaiya Saeha 👋
+# Hi there, I'm Sumaiya Saeha 👋
 🎓 B.Sc in Computer Science & Engineering from Bangladesh University of Engineering & Technology<br>
 💼 Aspiring Software Engineer<br>
 📍 Based in Dhaka
 
-##🚀 About Me<br>
+## 🚀 About Me<br>
 I'm passionate about full-stack development. I love building solutions that solve real-world problems and continuously learning to expand my technical expertise.
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 ### **Programming Languages**<br>
 - HTML, CSS, JavaScript, JSP, Spring Boot, Django, Node.js, React.js
@@ -29,7 +29,7 @@ I'm passionate about full-stack development. I love building solutions that solv
 ### **Other**<br>
 - Linux, LaTeX
 
-### **📂 Featured Projects**
+## **📂 Featured Projects**
 🖥️ Aronnok
 🛠️ ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)<br>
