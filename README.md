@@ -30,12 +30,12 @@ I'm passionate about full-stack development. I love building solutions that solv
 - Linux, LaTeX
 
 ## **📂 Featured Projects**
-🖥️ Aronnok
+🖥️ Aronnok<br>
 🛠️ ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)<br>
 🔹 A full-stack e-commerce platform for buying and selling rare hybrid plants online.<br>
 🌟 Highlight its impact, e.g., 100+ downloads, praised for clean UI, etc.<br>
-📱 PennyWise
+📱 PennyWise<br>
 🛠️ ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-000000?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)<br>
 🔹 A Simple Expense Tracker app helping users manage their finances by tracking their daily expenses.<br>
