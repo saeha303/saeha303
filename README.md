@@ -9,9 +9,9 @@ I'm passionate about full-stack development. I love building solutions that solv
 🛠️ Technical Skills
 
 ### **Programming Languages**
-![C/C++](https://img.shields.io/badge/C%2FC++-000000?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-000000?style=flat&logo=c)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
 
 ### **Web Development**
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
