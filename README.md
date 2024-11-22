@@ -3,7 +3,7 @@
 💼 Aspiring Software Engineer<br>
 📍 Based in Dhaka
 
-🚀 About Me
+##🚀 About Me<br>
 I'm passionate about full-stack development. I love building solutions that solve real-world problems and continuously learning to expand my technical expertise.
 
 🛠️ Technical Skills
