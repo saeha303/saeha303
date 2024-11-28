@@ -23,9 +23,6 @@ I'm passionate about full-stack development. I love building solutions that solv
 ### **Tools**<br>
 - Git, SVN, Jupyter Notebook, Docker
 
-### **Methodologies**<br>
-- Agile, Scrum, Object-Oriented Programming (OOP), Functional Programming
-
 ### **Other**<br>
 - Linux, LaTeX
 
