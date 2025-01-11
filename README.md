@@ -39,6 +39,8 @@ I'm passionate about full-stack development. I love building solutions that solv
 
 #### 🖥️ [PennyWise](https://github.com/saeha303/PennyWise)<br>
 🛠️ ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-000000?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
-🔹 Developed a personal finance management web app enabling users to track and categorize expenses, monitor budgets, generate reports, and manage recurring expenses.<br>
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>
+🔹 Developed a personal finance management web app enabling users to track and categorize expenses, monitor
+ budgets, generate reports, and manage recurring expenses, and utilize an AI-driven budget estimation feature to
+ recommend personalized budget limits based on spending patterns.<br>
 <!--🌟 Highlight a key feature.<br>-->
