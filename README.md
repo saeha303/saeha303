@@ -1,5 +1,5 @@
 # Hi there, I'm Sumaiya Saeha 👋
-🎓 B.Sc in Computer Science & Engineering from Bangladesh University of Engineering & Technology, Expected Graduation: February 2025<br>
+🎓 B.Sc in Computer Science & Engineering from Bangladesh University of Engineering & Technology, Graduated: March 2025<br>
 💼 Aspiring Software Engineer<br>
 📍 Based in Dhaka
 
