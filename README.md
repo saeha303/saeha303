@@ -1,6 +1,6 @@
 # Hi there, I'm Sumaiya Saeha 👋
 🎓 B.Sc in Computer Science & Engineering from Bangladesh University of Engineering & Technology, Graduated: March 2025<br>
-💼 Aspiring Software Engineer<br>
+💼 Software Engineer I, Synesis IT<br>
 📍 Based in Dhaka
 
 ## 🚀 About Me<br>
